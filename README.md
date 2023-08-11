@@ -9,7 +9,7 @@ Here comes a list:
 - first
 - second
 
-And here comes a ordered list:
+And here comes an ordered list:
 
 1. First
 2. Second
